@@ -177,6 +177,7 @@ are provided by other gems.
 - [Postgresql](https://github.com/krists/refile-postgres)
 - [Gridfs](https://github.com/Titinux/refile-gridfs)
 - [In Memory](https://github.com/refile/refile-memory)
+- [Backblaze B2](https://github.com/keichan34/refile-b2)
 
 ### Uploadable
 
